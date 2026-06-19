@@ -21,82 +21,68 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (Digital Product Marketplaces)
-
-- **[Gumroad](https://gumroad.com/)**  
-  Simple, creator-first platform for selling digital products with powerful checkout and audience tools.
-
-- **[Sellfy](https://sellfy.com/)**  
-  User-friendly marketplace for digital downloads, subscriptions, and print-on-demand with low fees.
-
-- **[Podia](https://www.podia.com/)**  
-  All-in-one platform for courses, memberships, digital downloads, and webinars with no transaction fees on higher plans.
-
-- **[Thinkific](https://www.thinkific.com/)**  
-  Popular course creation and membership platform with strong marketing and community features.
-
-- **[Teachable](https://teachable.com/)**  
-  Leading course marketplace with robust student management and monetization tools.
-
-- **[Kajabi](https://kajabi.com/)**  
-  All-in-one platform combining courses, memberships, email marketing, and website building.
-
-- **[Patreon](https://www.patreon.com/)**  
-  Membership platform for creators to build recurring revenue through exclusive content.
-
-- **[Outseta](https://outseta.com/)**  
-  Flexible membership and CRM platform for digital products and communities.
-
-- **[Whop](https://whop.com/)**  
-  Modern marketplace focused on digital products, communities, and software.
-
-- **[Virlo](https://virlo.com/)**  
-  Emerging platform for creators to sell digital goods and build engaged audiences.
-
-### Advanced & Specialized Platforms
-
-**Other notable mentions**: Mighty Networks, SendOwl, and Shopify with digital product apps.
+| Platform | Category | Description | Company Size (Rev / Valuation) | Pricing | Free Tier & Limits |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **[Shopify](https://www.shopify.com/)** | Specialized/Advanced | Leading ecommerce platform with digital product apps for building custom online stores. | ~$11.56B Revenue (2025) / ~$80B+ Market Cap | Starter plan is ~$5/mo (social/link selling only). Basic plan is ~$39/mo (full store). | **No** (3-day free trial, followed by promo $1/mo for 3 months). |
+| **[Kajabi](https://kajabi.com/)** | Core Marketplace | All-in-one platform combining courses, memberships, email marketing, and website building. | ~$75M ARR / ~$2.0B Valuation (2021) | Starts at $69/mo (Kickstarter plan) or $149/mo (Basic plan). 0% transaction fees. | **No** (14-day free trial)<br>Kickstarter plan limited to 1 product, 1 funnel, and 250 contacts. |
+| **[Whop](https://whop.com/)** | Core Marketplace | Modern marketplace focused on digital products, communities, and software. | ~$142M GMV / ~$1.6B Valuation (2026) | Free to start. Standard 3% platform fee on sales (plus payment processing fees). Pro plan is $10/mo for lower fees. | **Yes** (Free to start)<br>Unlimited products and members; subject to 3% platform fee. |
+| **[Patreon](https://www.patreon.com/)** | Core Marketplace | Membership platform for creators to build recurring revenue through exclusive content. | ~$179M Revenue (2025) / ~$1.5B Valuation (2025) | No monthly subscription fee. Platform fees range from 8% to 12% of creator income, plus payment processing fees. | **Yes** (Free to start)<br>Can offer free memberships with no subscriber limits; pay platform fees (8%-12%) only on paid tiers. |
+| **[Teachable](https://teachable.com/)** | Core Marketplace | Leading course marketplace with robust student management and monetization tools. | ~$50M+ ARR / ~$250M Valuation (Acquired) | Free plan available. Paid plans start at ~$39/mo ($29/mo billed annually) with 7.5% transaction fees. 0% fees on higher plans. | **Yes**<br>Limited to 1 published product and 10 active students, with $1 + 10% transaction fee. |
+| **[Thinkific](https://www.thinkific.com/)** | Core Marketplace | Popular course creation and membership platform with strong marketing and community features. | ~$74M TTM Revenue (2026) / ~$61.7M Market Cap | Starts at $49/mo (Basic plan, billed monthly). 0% platform transaction fees. | **No** (14-day free trial). |
+| **[Gumroad](https://gumroad.com/)** | Core Marketplace | Simple, creator-first platform for selling digital products with powerful checkout and audience tools. | ~$15M–$20M Revenue / ~$50M–$100M Valuation | 10% flat transaction fee per sale (plus standard payment processing fees). No monthly subscription. | **Yes** (Free to start)<br>No subscription or listing limits; only pay 10% fee per sale. |
+| **[Mighty Networks](https://www.mightynetworks.com/)** | Specialized/Advanced | All-in-one platform for building creator-led communities, courses, and memberships. | ~$8.6M ARR (2024) / ~$100M Valuation (Estimated) | Starts at ~$79/mo for the Launch plan (billed annually). | **No** (14-day free trial). |
+| **[Podia](https://www.podia.com/)** | Core Marketplace | All-in-one platform for courses, memberships, digital downloads, and webinars. | ~$5M–$10M Revenue (Estimated) / Private | Starts at $39/mo (or $33/mo billed annually) with 5% transaction fees. Higher plans (from $89/mo) have 0% transaction fees. | **No** (30-day free trial)<br>Mover plan has 100 email subscriber limit. |
+| **[Sellfy](https://sellfy.com/)** | Core Marketplace | User-friendly marketplace for digital downloads, subscriptions, and print-on-demand with low fees. | ~$3.1M Revenue (2025) / ~$9.2M Valuation (2025) | Starts at $29/mo (or $22/mo billed annually) for the Starter plan. 0% platform transaction fees. | **No** (14-day free trial)<br>Starter plan limits annual sales to $10,000. |
+| **[SendOwl](https://www.sendowl.com/)** | Specialized/Advanced | Reliable platform for delivering digital downloads, subscriptions, and automated PDF stamping. | ~$2M–$5M Revenue (Estimated) / Private | Starts at ~$39/mo (Launch plan) plus volume-based transaction fees. | **No** (7-day free trial). |
+| **[Outseta](https://outseta.com/)** | Core Marketplace | Flexible membership and CRM platform for digital products and communities. | ~$1.5M–$2M ARR / Private (Bootstrapped) | Starts at $47/mo for the Founder plan (plus 1% platform transaction fee). | **No** (7-day free trial)<br>Founder plan is limited to 1,000 contacts. |
+| **[Virlo](https://virlo.com/)** | Core Marketplace | Emerging platform for creators to sell digital goods and build engaged audiences. | <$1M ARR / Private (Bootstrapped) | Subscription plans start at $49/mo. Pay-as-you-go API pricing starts at $0.05/call. | **No** (7-day free trial)<br>API offers some free endpoints. |
 
 ## Open-Source GitHub Projects
 
-### Dedicated Digital Product & Marketplace Solutions
+These open-source alternatives offer self-hosting, full customization, and zero platform fees. They are sorted descending by their GitHub star count.
 
-- **[WooCommerce + Easy Digital Downloads](https://github.com/woocommerce/woocommerce)**  
-  Most popular open-source ecommerce solution. With Easy Digital Downloads, it becomes a powerful Gumroad-like platform for selling digital products, courses, and memberships.
+- **[Ghost](https://github.com/TryGhost/Ghost)** [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=social&color=white)](https://github.com/TryGhost/Ghost/stargazers)  
+  Open-source membership and newsletter platform perfect for creators selling digital content and subscriptions.
 
-- **[MedusaJS](https://github.com/medusajs/medusa)**  
-  Modern headless commerce engine built with Node.js. Highly flexible for creating custom digital product stores with subscriptions and file delivery.
-
-- **[Saleor](https://github.com/saleor/saleor)**  
-  Headless, API-first open-source ecommerce platform with excellent support for digital goods and memberships.
-
-- **[Vendure](https://github.com/vendure-ecommerce/vendure)**  
-  TypeScript/Node.js headless commerce framework designed for custom digital product marketplaces.
-
-- **[Bagisto](https://github.com/bagisto/bagisto)**  
-  Laravel-based open-source ecommerce platform with strong features for digital downloads and subscriptions.
-
-- **[Spree Commerce](https://github.com/spree/spree)**  
-  Mature headless ecommerce framework with REST API and Next.js storefront support for digital products.
-
-- **[Frappe/ERPNext](https://github.com/frappe/erpnext)**  
+- **[Frappe/ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
   Full open-source ERP with digital product, course, and membership management modules.
 
-- **[Ghost](https://github.com/TryGhost/Ghost)**  
-  Open-source membership and newsletter platform perfect for creators selling digital content and subscriptions.
+- **[MedusaJS](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
+  Modern headless commerce engine built with Node.js. Highly flexible for creating custom digital product stores with subscriptions and file delivery.
+
+- **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+  Open-source low-code platform for building custom creator dashboards and delivery portals.
+
+- **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
+  Laravel-based open-source ecommerce platform with strong features for digital downloads and subscriptions.
+
+- **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
+  Headless, API-first open-source ecommerce platform with excellent support for digital goods and memberships.
+
+- **[Docmost](https://github.com/docmost/docmost)** [![GitHub stars](https://img.shields.io/github/stars/docmost/docmost?style=social&color=white)](https://github.com/docmost/docmost/stargazers)  
+  Open-source wiki and knowledge base for selling gated content.
+
+- **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
+  Mature headless ecommerce framework with REST API and Next.js storefront support for digital products.
+
+- **[Reaction Commerce](https://github.com/reactioncommerce/reaction)** [![GitHub stars](https://img.shields.io/github/stars/reactioncommerce/reaction?style=social&color=white)](https://github.com/reactioncommerce/reaction/stargazers)  
+  Open-source headless commerce platform suitable for building custom digital marketplaces.
+
+- **[WooCommerce + Easy Digital Downloads](https://github.com/woocommerce/woocommerce)** [![GitHub stars](https://img.shields.io/github/stars/woocommerce/woocommerce?style=social&color=white)](https://github.com/woocommerce/woocommerce/stargazers)  
+  Most popular open-source ecommerce solution. With Easy Digital Downloads, it becomes a powerful Gumroad-like platform for selling digital products, courses, and memberships.
+
+- **[PrestaShop](https://github.com/PrestaShop/PrestaShop)** [![GitHub stars](https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=social&color=white)](https://github.com/PrestaShop/PrestaShop/stargazers)  
+  Full-featured PHP platform with excellent digital product modules.
+
+- **[Sylius](https://github.com/Sylius/Sylius)** [![GitHub stars](https://img.shields.io/github/stars/Sylius/Sylius?style=social&color=white)](https://github.com/Sylius/Sylius/stargazers)  
+  Symfony-based flexible ecommerce framework.
+
+- **[Vendure](https://github.com/vendurehq/vendure)** [![GitHub stars](https://img.shields.io/github/stars/vendurehq/vendure?style=social&color=white)](https://github.com/vendurehq/vendure/stargazers)  
+  TypeScript/Node.js headless commerce framework designed for custom digital product marketplaces.
 
 - **[Payhip Open Alternatives](https://github.com/search?q=digital+product+marketplace+open+source)**  
   Community-driven self-hosted solutions for digital product sales with secure delivery.
 
-- **[Reaction Commerce](https://github.com/reactioncommerce/reaction)** (and modern forks)  
-  Open-source headless commerce platform suitable for building custom digital marketplaces.
-
-### Additional Strong Open-Source Options
-
-- **[Sylius](https://github.com/Sylius/Sylius)** — Symfony-based flexible ecommerce framework.
-- **[PrestaShop](https://github.com/PrestaShop/PrestaShop)** — Full-featured PHP platform with excellent digital product modules.
-- **[Budibase](https://github.com/Budibase/budibase)** — Open-source low-code platform for building custom creator dashboards and delivery portals.
-- **[Docmost](https://github.com/docmost/docmost)** — Open-source wiki and knowledge base for selling gated content.
 - **Many Next.js + Medusa / Saleor** starters specifically built for digital product creators.
 
 **Frameworks for building custom marketplaces**: Combine **MedusaJS** / **Saleor** (headless) with **Next.js** storefronts + Stripe + Supabase/Firebase for a fully open, self-hosted digital product empire.
