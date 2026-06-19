@@ -1,25 +1,31 @@
-# Awesome-Digital-Product-Marketplaces
-## Top Digital Product Marketplaces Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Digital Product Marketplaces - Curated List of SaaS &amp; Open Source Solutions" width="800" />
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Selling Courses, Ebooks, Software, Memberships & Digital Goods*  
-**Last updated: March 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Product-Marketplaces/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Product-Marketplaces?style=flat-square&logo=github" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Product-Marketplaces/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Product-Marketplaces?style=flat-square&logo=git" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Product-Marketplaces/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Digital-Product-Marketplaces?style=flat-square&logo=github" alt="Issues" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Digital-Product-Marketplaces?style=flat-square&color=blue" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **Digital Product Marketplaces**. These tools enable creators, educators, and businesses to sell digital products (courses, ebooks, software, templates, memberships, audio, etc.) with checkout, delivery, subscriptions, tax handling, and customer management.
+---
 
-**Examples** include Whop, Virlo, Shopify, Sellfy, Gumroad, Mighty Networks, Podia, SendOwl, Thinkific, Teachable, Kajabi, Patreon, and Outseta (the category leaders). Tools listed here emphasize **creator-friendly experience**, seamless delivery, recurring revenue, and community features.
+# Awesome Digital Product Marketplaces 🚀
+## Curated List of SaaS Platforms & Self-Hosted Open-Source Ecommerce Builders
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, full customization, zero platform fees, and complete data ownership — ideal for creators and businesses who want control and scalability without ongoing commissions.
+Welcome to the ultimate directory for building and scaling **digital product marketplaces**! This curated list features the best **SaaS platforms** and **self-hosted open-source GitHub projects** designed to help creators, educators, developers, and businesses sell online courses, ebooks, SaaS memberships, software templates, license keys, audio, and physical print-on-demand goods.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+Whether you are looking for premium **Gumroad alternatives**, all-in-one educational store builders, or powerful API-first headless commerce engines to host yourself, this ecosystem tracker has you covered.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+### 📋 Table of Contents
+- [💼 SaaS Products](#-saas-products)
+- [🛠️ Open-Source GitHub Projects](#%EF%B8%8F-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
-## SaaS Products
+## 💼 SaaS Products
 
 | Platform | Category | Description | Company Size (Rev / Valuation) | Pricing | Free Tier & Limits |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -37,7 +43,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Outseta](https://outseta.com/)** | Core Marketplace | Flexible membership and CRM platform for digital products and communities. | ~$1.5M–$2M ARR / Private (Bootstrapped) | Starts at $47/mo for the Founder plan (plus 1% platform transaction fee). | **No** (7-day free trial)<br>Founder plan is limited to 1,000 contacts. |
 | **[Virlo](https://virlo.com/)** | Core Marketplace | Emerging platform for creators to sell digital goods and build engaged audiences. | <$1M ARR / Private (Bootstrapped) | Subscription plans start at $49/mo. Pay-as-you-go API pricing starts at $0.05/call. | **No** (7-day free trial)<br>API offers some free endpoints. |
 
-## Open-Source GitHub Projects
+## 🛠️ Open-Source GitHub Projects
 
 These open-source alternatives offer self-hosting, full customization, and zero platform fees. They are sorted descending by their GitHub star count.
 
@@ -87,7 +93,7 @@ These open-source alternatives offer self-hosting, full customization, and zero 
 
 **Frameworks for building custom marketplaces**: Combine **MedusaJS** / **Saleor** (headless) with **Next.js** storefronts + Stripe + Supabase/Firebase for a fully open, self-hosted digital product empire.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -96,7 +102,7 @@ These open-source alternatives offer self-hosting, full customization, and zero 
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Always verify payment processor fees, tax compliance, and security when handling customer data and digital deliveries.

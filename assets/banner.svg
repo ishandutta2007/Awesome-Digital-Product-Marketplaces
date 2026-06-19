@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#311042" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+
+    <!-- Cyan Glowing Gradient -->
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+
+    <!-- Drop Shadows -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="800" height="250" rx="16" fill="url(#bgGrad)" />
+
+  <!-- Background Decorative Shapes / Grids -->
+  <g opacity="0.08">
+    <path d="M 0,25 L 800,25 M 0,50 L 800,50 M 0,75 L 800,75 M 0,100 L 800,100 M 0,125 L 800,125 M 0,150 L 800,150 M 0,175 L 800,175 M 0,200 L 800,200 M 0,225 L 800,225" stroke="#ffffff" stroke-width="1" />
+    <path d="M 50,0 L 50,250 M 100,0 L 100,250 M 150,0 L 150,250 M 200,0 L 200,250 M 250,0 L 250,250 M 300,0 L 300,250 M 350,0 L 350,250 M 400,0 L 400,250 M 450,0 L 450,250 M 500,0 L 500,250 M 550,0 L 550,250 M 600,0 L 600,250 M 650,0 L 650,250 M 700,0 L 700,250 M 750,0 L 750,250" stroke="#ffffff" stroke-width="1" />
+  </g>
+
+  <!-- Glowing background blobs -->
+  <circle cx="100" cy="50" r="120" fill="#6366f1" opacity="0.25" filter="url(#glow)" />
+  <circle cx="720" cy="200" r="100" fill="#ec4899" opacity="0.2" filter="url(#glow)" />
+  <circle cx="450" cy="125" r="80" fill="#06b6d4" opacity="0.15" filter="url(#glow)" />
+
+  <!-- Abstract Storefront Graphic/Design on Right -->
+  <g transform="translate(580, 50)" filter="url(#shadow)">
+    <!-- Main screen frame -->
+    <rect x="0" y="10" width="160" height="120" rx="8" fill="#1e293b" stroke="#475569" stroke-width="2" />
+    <!-- Screen Header -->
+    <rect x="0" y="10" width="160" height="20" rx="4" fill="#0f172a" />
+    <circle cx="10" cy="20" r="3" fill="#ef4444" />
+    <circle cx="20" cy="20" r="3" fill="#f59e0b" />
+    <circle cx="30" cy="20" r="3" fill="#10b981" />
+    <!-- Gated Product Content Blocks -->
+    <rect x="15" y="45" width="60" height="30" rx="4" fill="url(#accentGrad)" opacity="0.8" />
+    <rect x="85" y="45" width="60" height="12" rx="3" fill="#38bdf8" />
+    <rect x="85" y="63" width="40" height="12" rx="3" fill="#94a3b8" />
+    <!-- Subtitle stats / charts representation -->
+    <rect x="15" y="90" width="130" height="25" rx="4" fill="#334155" />
+    <path d="M 25,108 L 45,98 L 65,105 L 85,95 L 105,102 L 135,93" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <!-- Small coin icon overlay -->
+    <circle cx="145" cy="20" r="15" fill="#eab308" filter="url(#shadow)" />
+    <text x="145" y="25" font-family="'Inter', system-ui, sans-serif" font-size="14" font-weight="900" fill="#ffffff" text-anchor="middle">$</text>
+  </g>
+
+  <!-- Left Content (Text) -->
+  <g transform="translate(50, 60)">
+    <!-- Badge / Subtitle -->
+    <rect x="0" y="0" width="180" height="26" rx="13" fill="#312e81" stroke="#4f46e5" stroke-width="1.5" />
+    <text x="90" y="17" font-family="'Inter', system-ui, sans-serif" font-size="11" font-weight="700" fill="#a5b4fc" text-anchor="middle" letter-spacing="1">CURATED LIST 🚀</text>
+
+    <!-- Main Title -->
+    <text x="0" y="65" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-size="34" font-weight="800" fill="#ffffff" filter="url(#shadow)">
+      Digital Product
+    </text>
+    <text x="0" y="105" font-family="'Outfit', 'Inter', system-ui, sans-serif" font-size="34" font-weight="800" fill="url(#accentGrad)" filter="url(#shadow)">
+      Marketplaces
+    </text>
+
+    <!-- Description -->
+    <text x="0" y="140" font-family="'Inter', system-ui, sans-serif" font-size="14" font-weight="500" fill="#94a3b8">
+      Top SaaS Platforms &amp; Open-Source Self-Hosted Solutions
+    </text>
+  </g>
+</svg>
