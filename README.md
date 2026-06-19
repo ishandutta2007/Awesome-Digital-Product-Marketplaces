@@ -86,7 +86,6 @@ These open-source alternatives offer self-hosting, full customization, and zero 
 - **[Vendure](https://github.com/vendurehq/vendure)** [![GitHub stars](https://img.shields.io/github/stars/vendurehq/vendure?style=social&color=white)](https://github.com/vendurehq/vendure/stargazers)  
   TypeScript/Node.js headless commerce framework designed for custom digital product marketplaces.
 
-**Frameworks for building custom marketplaces**: Combine **MedusaJS** / **Saleor** (headless) with **Next.js** storefronts + Stripe + Supabase/Firebase for a fully open, self-hosted digital product empire.
 
 ## 🤝 How to Contribute
 
