@@ -108,6 +108,18 @@ Star the repo if you find it useful!
 - Always verify payment processor fees, tax compliance, and security when handling customer data and digital deliveries.
 - Self-hosted open-source solutions require technical maintenance, hosting, and backups.
 
+## Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Digital-Product-Marketplaces&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Digital-Product-Marketplaces&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Digital-Product-Marketplaces&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Digital-Product-Marketplaces&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ---
 
 **Made for creators, course makers, indie hackers, and digital product entrepreneurs.**  
