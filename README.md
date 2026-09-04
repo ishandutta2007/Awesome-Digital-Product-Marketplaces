@@ -42,7 +42,7 @@ Whether you are looking for premium **Gumroad alternatives**, all-in-one educati
 | **[SendOwl](https://www.sendowl.com/)** | Specialized/Advanced | Reliable platform for delivering digital downloads, subscriptions, and automated PDF stamping. | ~$2M–$5M Revenue (Estimated) / Private | Starts at ~$39/mo (Launch plan) plus volume-based transaction fees. | **No** (7-day free trial). |
 | **[Outseta](https://outseta.com/)** | Core Marketplace | Flexible membership and CRM platform for digital products and communities. | ~$1.5M–$2M ARR / Private (Bootstrapped) | Starts at $47/mo for the Founder plan (plus 1% platform transaction fee). | **No** (7-day free trial)<br>Founder plan is limited to 1,000 contacts. |
 | **[Virlo](https://virlo.com/)** | Core Marketplace | Emerging platform for creators to sell digital goods and build engaged audiences. | <$1M ARR / Private (Bootstrapped) | Subscription plans start at $49/mo. Pay-as-you-go API pricing starts at $0.05/call. | **No** (7-day free trial)<br>API offers some free endpoints. |
-| **[XiuStore](https://store.xiu.ai/en/)** | Specialized/Advanced | Store for AI accounts, subscriptions, and related digital services, with product-specific delivery, warranty, and support details. | 3 employees | Product-specific pricing; see the current catalog. | **No** |
+| **[XiuStore](https://store.xiu.ai/en/)** | Specialized/Advanced | Store for AI accounts, subscriptions, and related digital services, with product-specific delivery, warranty, and support details. | Privately held; revenue and valuation not publicly disclosed | Product-specific pricing; see the current catalog. | **No** |
 
 ## 🛠️ Open-Source GitHub Projects
 
