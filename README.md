@@ -43,6 +43,7 @@ Whether you are looking for premium **Gumroad alternatives**, all-in-one educati
 | **[Outseta](https://outseta.com/)** | Core Marketplace | Flexible membership and CRM platform for digital products and communities. | ~$1.5M–$2M ARR / Private (Bootstrapped) | Starts at $47/mo for the Founder plan (plus 1% platform transaction fee). | **No** (7-day free trial)<br>Founder plan is limited to 1,000 contacts. |
 | **[Virlo](https://virlo.com/)** | Core Marketplace | Emerging platform for creators to sell digital goods and build engaged audiences. | <$1M ARR / Private (Bootstrapped) | Subscription plans start at $49/mo. Pay-as-you-go API pricing starts at $0.05/call. | **No** (7-day free trial)<br>API offers some free endpoints. |
 | **[XiuStore](https://store.xiu.ai/en/)** | Specialized/Advanced | Store for AI accounts, subscriptions, and related digital services, with product-specific delivery, warranty, and support details. | 3 employees | Product-specific pricing; see the current catalog. | **No** |
+| **[esdecode](https://esdecode.com/)** | Specialized/Advanced | Marketplace for production-ready source code, SaaS boilerplates, self-hosted software and complete software project acquisitions. | Private / Bootstrapped | Buyers purchase individual products or complete projects; seller fees depend on seller stage and marketplace terms. | **Yes**<br>Sellers can list software products and source code. |
 
 ## 🛠️ Open-Source GitHub Projects
 
